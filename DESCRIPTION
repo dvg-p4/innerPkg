@@ -1,6 +1,6 @@
 Package: innerPkg
 Title: Dummy Package That outerPkg Depends On
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: 
     person("Daniel", "Gealow", , "dgealow@paradigm4.com", role = c("aut", "cre"))
 Description: This is a dummy package with a single exported function. It's part
@@ -9,3 +9,5 @@ License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.1
+URL: https://github.com/dvg-p4/innerPkg
+BugReports: https://github.com/dvg-p4/innerPkg/issues
