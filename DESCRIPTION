@@ -1,6 +1,6 @@
 Package: innerPkg
 Title: Dummy Package That outerPkg Depends On
-Version: 0.1.1
+Version: 0.1.1.9000
 Authors@R: 
     person("Daniel", "Gealow", , "dgealow@paradigm4.com", role = c("aut", "cre"))
 Description: This is a dummy package with a single exported function. It's part
